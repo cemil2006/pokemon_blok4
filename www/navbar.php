@@ -6,6 +6,7 @@
             </div>
             <ul class="flex space-x-6">
                 <li><a href="index.php" class="text-gray-300 hover:text-white">Home</a></li>
+                <li><a href="pokemon_create.php" class="text-gray-300 hover:text-white">Create</a></li>
                 <li><a href="#" class="text-gray-300 hover:text-white">Mijn Verzameling</a></li>
                 <li><a href="#" class="text-gray-300 hover:text-white">Zeldzame Pokémon</a></li>
                 <li><a href="#" class="text-gray-300 hover:text-white">Over Ons</a></li>
